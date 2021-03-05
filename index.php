@@ -43,9 +43,9 @@ img {
 	<h1 style="color:white"><center>Hello, I'm Aziza!</center></h1>
 
 
-	<p><i style="color:#E0E0E0">Web developer from Bishkek.</i></p>
-	<p><i style="color:#E0E0E0">Welcome to my Portfolio.</i> </p> 
-    <p><i style="color:#E0E0E0">I create custom websites  to help busnisses do better online.</i></p>
+	<p><i style="color:black">Web developer from Bishkek.</i></p>
+	<p><i style="color:black">Welcome to my Portfolio.</i> </p> 
+    <p><i style="color:black">I create custom websites  to help busnisses do better online.</i></p>
 	
 	<button type="button" onclick="alert('Hello world!')">My projects</button>
 	<img src="man.jpg">
