@@ -58,7 +58,7 @@ img {
   <?php echo "" ?>
 
 <h2 style="color: black">Me in social media</h2>
-<a href="https://youtube.com/channel/UCVhTYda6nxDhOIZ02TABHRg" class="fa fa-youtube"></a>
+<a href="#" class="fa fa-youtube"></a>
 <a href="https://instagram.com/__dzhamangulova77__?igshid=1hbwwstdylu7b" class="fa fa-instagram"></a>
 
 
