@@ -41,7 +41,7 @@ img {
 </head>
 <body>
 	<h1 style="color:black">Hello, I'm Aziza!</center></h1>
-	<img src = >
+	<img src ="https://lh3.googleusercontent.com/86I2QgfyLZzWua5g1FZBzatbROd6SCUa4bFE9SMH5_WeBG3aLcvVUGfUBWs8VoWcz7wS2Cs=s85" >
 
 
 	<p><i style="color:black">Web developer from Bishkek.</i></p>
