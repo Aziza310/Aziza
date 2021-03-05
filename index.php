@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background: white url('r.jpg')">
+<html style="background: white url('a.jpg')">
 	
 <head>
 	<title>aziza</title>
