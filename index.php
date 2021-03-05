@@ -40,7 +40,8 @@ img {
 </style>
 </head>
 <body>
-	<h1 style="color:black"><center>Hello, I'm Aziza!</center></h1>
+	<h1 style="color:black">Hello, I'm Aziza!</center></h1>
+	<img src = >
 
 
 	<p><i style="color:black">Web developer from Bishkek.</i></p>
