@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background: white url('https://thewallpaper.co/wp-content/uploads/2020/09/abstract-wallpaper-hd-artworks-cool-desktop-images-art-colorful-backgrounds-cute-background-images-lovely-1697x1100-1.jpg')">
+<html style="background: white url('https://www.google.com/search?q=%D1%84%D0%BE%D0%BD&sxsrf=ALeKk001aCMbjRWId01ZzEsQu-OUXj0XBg:1614922452910&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiltJT5tpjvAhXnl4sKHV5oCBAQ_AUoAXoECBAQAw&biw=1366&bih=625#imgrc=YpGmaikURdapOM')">
 	
 <head>
 	<title>aziza</title>
