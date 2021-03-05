@@ -40,7 +40,7 @@ img {
 </style>
 </head>
 <body>
-	<h1 style="color:white"><center>Hello, I'm Aziza!</center></h1>
+	<h1 style="color:black"><center>Hello, I'm Aziza!</center></h1>
 
 
 	<p><i style="color:black">Web developer from Bishkek.</i></p>
@@ -56,7 +56,7 @@ img {
 	<p> .</p>
   <?php echo "" ?>
 
-<h2 style="color: white">Me in social media</h2>
+<h2 style="color: black">Me in social media</h2>
 <a href="https://youtube.com/channel/UCVhTYda6nxDhOIZ02TABHRg" class="fa fa-youtube"></a>
 <a href="https://instagram.com/__dzhamangulova77__?igshid=1hbwwstdylu7b" class="fa fa-instagram"></a>
 
