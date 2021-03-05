@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background: white url('https://www.google.com/search?q=%D1%84%D0%BE%D0%BD&tbm=isch&ved=2ahUKEwiu5sH_wJjvAhXQuyoKHaMnBrgQ2-cCegQIABAA&oq=%D1%84%D0%BE%D0%BD&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgcIIxDqAhAnUOspWOQ8YJJBaAFwAHgAgAFuiAHGApIBAzAuM5gBAKABAaoBC2d3cy13aXotaW1nsAEFwAEB&sclient=img&ei=Xs1BYK6_I9D3qgGjz5jACw&bih=625&biw=1366#imgrc=UveYWjcizFsw1M.jpg')">
+<html style="background: white url('https://i.ytimg.com/vi/1Q_Jd_MTdrY/maxresdefault.jpg')">
 	
 <head>
 	<title>aziza</title>
