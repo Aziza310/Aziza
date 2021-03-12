@@ -41,7 +41,7 @@ img {
 </head>
 <body>
 	<h1 style="color:black">Hello, I'm Aziza!</center></h1>
-	<img src ="https://lh3.googleusercontent.com/86I2QgfyLZzWua5g1FZBzatbROd6SCUa4bFE9SMH5_WeBG3aLcvVUGfUBWs8VoWcz7wS2Cs=s85" style="width:200px; heighy:250px;">
+	<img src ="https://yt3.ggpht.com/ytc/AAUvwnhXw7cZDSy_VD577yp5QIJyDJ5gk6RFZr8pfTW_=s900-c-k-c0x00ffffff-no-rj" alt="iaau" width="200"; height="200" style="  border-radius: 50%; border="2 class="rightpic">
 
 
 	<p><i style="color:black">Web developer from Bishkek.</i></p>
