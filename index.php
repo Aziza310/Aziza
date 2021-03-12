@@ -49,7 +49,7 @@ img {
     <p><i style="color:black">I create custom websites  to help busnisses do better online.</i></p>
 	
 	<button type="button" onclick="alert('Hello world!')">My projects</button>
-	<img src="https://bilettutu.ru/wp-content/uploads/2019/07/jejfeleva-bashnja.jpg" style="float: left; width:200; height: 200 ;">
+	<img src="https://bilettutu.ru/wp-content/uploads/2019/07/jejfeleva-bashnja.jpg" style="float: left; "  width="200" height="200">
 	
 	
   <?php echo "" ?>
