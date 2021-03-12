@@ -58,9 +58,9 @@ img {
   <?php echo "" ?>
 	<div>
         <form action="handler.php">
-   <p><strong style="color:#8F9152 " >Логин:</strong> 
+   <p><strong style="color:black " >Логин:</strong> 
     <input maxlength="25" size="40" name="login"></p>
-   <p><strong style="color: #B0B7C6">Пароль:</strong> 
+   <p><strong style="color: black">Пароль:</strong> 
     <input type="password" maxlength="25" size="40" name="password"></p>
     <p><input type="submit" value="Отправить"></p>
       </div>
