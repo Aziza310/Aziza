@@ -69,14 +69,7 @@ img {
 <a href="https://www.youtube.com/" class="fa fa-youtube"></a>
 <a href="https://instagram.com/__dzhamangulova77__?igshid=1hbwwstdylu7b" class="fa fa-instagram"></a>
 		
-		<form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="Aziza"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="dzhamangulova77"><br><br>
-  <input type="submit" value="Submit">
-</form> 
-
+		
 
 
 
