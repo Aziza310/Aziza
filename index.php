@@ -49,7 +49,7 @@ img {
     <p><i style="color:black">I create custom websites  to help busnisses do better online.</i></p>
 	
 	<button type="button" onclick="alert('Hello world!')">My projects</button>
-	<img src="https://web.whatsapp.com/">
+	<img src="https:">
 	
 	<p> .</p>
 	<p> .</p>
@@ -68,6 +68,14 @@ img {
 <h2 style="color: black">Me in social media</h2>
 <a href="https://www.youtube.com/" class="fa fa-youtube"></a>
 <a href="https://instagram.com/__dzhamangulova77__?igshid=1hbwwstdylu7b" class="fa fa-instagram"></a>
+		
+		<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="Aziza"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="dzhamangulova77"><br><br>
+  <input type="submit" value="Submit">
+</form> 
 
 
 
