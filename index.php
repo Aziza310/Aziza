@@ -48,9 +48,6 @@ img {
 	<p><i style="color:black">Welcome to my Portfolio.</i> </p> 
     <p><i style="color:black">I create custom websites  to help busnisses do better online.</i></p>
 	
-	<button type="button" onclick="alert('Hello world!')">My projects</button>
-	<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-  <?php echo "" ?>
 	<div>
         <form action="handler.php">
    <p><strong style="color:black " >Логин:</strong> 
