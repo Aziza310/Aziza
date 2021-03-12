@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background: white url('https://i1.wallbox.ru/wallpapers/main/201320/253138c1bfe2d6a.jpg')">
+<html style="background: white url('https://www.publicdomainpictures.net/pictures/260000/velka/above-clouds.jpg')">
 	
 <head>
 	<title>aziza</title>
