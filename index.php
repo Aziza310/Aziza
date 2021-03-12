@@ -1,77 +1,61 @@
-<!DOCTYPE html>
-<html style="background: white url('https://i.ytimg.com/vi/1Q_Jd_MTdrY/maxresdefault.jpg')">
-	
-<head>
-	<title>aziza</title>
-<style>
-img {
-  display: block;
-  margin-left: auto;
+[7:51 AM, 12.03.2021] Kamchybek Csc18: <!DOCTYPE html>
+<html>
+ <head>
+
+<title>MY SITE TO WELLCOME</title>
+ <link rel="stylesheet" type="text/css" href="css/style.css" />
+   <style>
+  
+  </style>
+
+ <link rel="stylesheet" type="text/css" href="css/style.css" />
+   <style>
+
+  </style> 
+
  
-}
+  <body background="https://im0-tub-com.yandex.net/i?id=859329baa1ab234b129edc13ae0a6dc4&n=13" >
 
+ </head>
+ <p>
+    	<img src="https://yt3.ggpht.com/ytc/AAUvwnhXw7cZDSy_VD577yp5QIJyDJ5gk6RFZr8pfTW_=s900-c-k-c0x00ffffff-no-rj" alt="iaau" width="200"; height="200" style="  border-radius: 50%; border="2 class="rightpic">
+ 
 
+     </p>
+  	<h1 style="color: #8F9152" align="center" ><i>	My Portfolio</i></h1>
+  	<h2 style="color: #8F9152" ><em >NAME:</em> </h2>
+  	<h2 style="color: #B0B7C6" ><em >Kamchybek</em> </h2>
+    <h2 style="color: #8F9152" ><em >SURNAME:</em> </h2>
+    <h2 style="color: #B0B7C6" ><em>SURNAME:Mederbekov</em></h2>
+    <h2 style="color: #8F9152" ><em >SOCIAL STATUS:</em> </h2>
+    <h2 style="color: #B0B7C6" ><em>Student</em></h2>
+    <h2 style="color: #8F9152" ><em >AGE:</em> </h2>
+    <h2 style="color: #B0B7C6" ><em>12*33-378=??years</em></h2>
+    <b>
+   
 
-</style>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
+     <h2 style="color: #8F9152" >Me in social media</h2>
 
-
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-}
-
-.fa-instagram {
-  background: #125688;
-  color: white;
-}
-
-
-</style>
-</head>
-<body>
-	<h1 style="color:black">Hello, I'm Aziza!</center></h1>
-	<img src ="https://lh3.googleusercontent.com/86I2QgfyLZzWua5g1FZBzatbROd6SCUa4bFE9SMH5_WeBG3aLcvVUGfUBWs8VoWcz7wS2Cs=s85" style="width:200px; heighy:250px;">
-
-
-	<p><i style="color:black">Web developer from Bishkek.</i></p>
-	<p><i style="color:black">Welcome to my Portfolio.</i> </p> 
-    <p><i style="color:black">I create custom websites  to help busnisses do better online.</i></p>
-	
-	<button type="button" onclick="alert('Hello world!')">My projects</button>
-	<img src="aziza.jpg">
-	
-	<p> .</p>
-	<p> .</p>
-	<p> .</p>
-	<p> .</p>
-  <?php echo "" ?>
-	<div>
-        <form action="handler.php">
-   <p><strong style="color:black " >Логин:</strong> 
-    <input maxlength="25" size="40" name="login"></p>
-   <p><strong style="color: black">Пароль:</strong> 
-    <input type="password" maxlength="25" size="40" name="password"></p>
-    <p><input type="submit" value="Отправить"></p>
-      </div>
-
-<h2 style="color: black">Me in social media</h2>
-<a href="https://www.youtube.com/" class="fa fa-youtube"></a>
-<a href="https://instagram.com/__dzhamangulova77__?igshid=1hbwwstdylu7b" class="fa fa-instagram"></a>
-
+     <a href="https://www.instagram.com/accounts/onetap/?next=%2F">
+     	<img alt="Qries" src="https://im0-tub-com.yandex.net/i?id=46ea1ce0304acedc771520fe6c0af2fc&n=13"
+         width="40" height="40" border="2" >
+    
+      <a href="https://youtube.com/">
+         <img alt="Qries" src="https://www.freeiconspng.com/uploads/youtube-icon-block-png-17.png"
+         width="40" height="40" style="color: black" border="2">
+  
 
 
 
 
 </body>
 </html>
+[8:30 AM, 12.03.2021] Kamchybek Csc18: <p><input type="submit" value="Отправить"></p>
+[8:32 AM, 12.03.2021] Kamchybek Csc18: <div>
+        <form action="handler.php">
+   <p><strong style="color:#8F9152 " >Логин:</strong> 
+    <input maxlength="25" size="40" name="login"></p>
+   <p><strong style="color: #B0B7C6">Пароль:</strong> 
+    <input type="password" maxlength="25" size="40" name="password"></p>
+    <p><input type="submit" value="Отправить"></p>
+      </div>
