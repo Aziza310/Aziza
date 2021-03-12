@@ -49,7 +49,7 @@ img {
     <p><i style="color:black">I create custom websites  to help busnisses do better online.</i></p>
 	
 	<button type="button" onclick="alert('Hello world!')">My projects</button>
-	<img src="aziza.jpg">
+	<img src="https://web.whatsapp.com/">
 	
 	<p> .</p>
 	<p> .</p>
