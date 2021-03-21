@@ -30,22 +30,23 @@ a:active {
   text-decoration: underline;
 }
 </style>
-	<title>aziza</title>
+	</style>
 </head>
-<body style="background-color:powderblue;">
+<body>
+	<h1 style="color:black">Hello, I'm Aziza!</center></h1>
 	<img src ="https://yt3.ggpht.com/ytc/AAUvwnhXw7cZDSy_VD577yp5QIJyDJ5gk6RFZr8pfTW_=s900-c-k-c0x00ffffff-no-rj" alt="iaau" width="200"; height="200" style="  border-radius: 50%; border="2 class="rightpic">
 
-	</div>
-	<div>
-		<h1 style="text-align:center; color:Lime; font-family:matura mt script capitals;" ><em> Aziza Dzhamangulova</em> </h1>
-	</div>
-<div>
-	<h3 style="color:black;">Social Status: Student</h3>
-	<h3 style="color:black;">Age: 18 </h3>
-  <h4 style="color:black;">Phone number: +996-706 25 75 25 </h4>
+
+	<p><i style="color:black">Web developer from Bishkek.</i></p>
+	<p><i style="color:black">Welcome to my Portfolio.</i> </p> 
+    <p><i style="color:black">I create custom websites  to help busnisses do better online.</i></p>
 	
-        
-</a>
+	
+
+<h2 style="color: black">Me in social media</h2>
+<a href="https://www.youtube.com/" class="fa fa-youtube"></a>
+<a href="https://instagram.com/__dzhamangulova77__?igshid=1hbwwstdylu7b" class="fa fa-instagram"></a>
+
 	
  
 </div>
