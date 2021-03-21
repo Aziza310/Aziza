@@ -48,20 +48,44 @@ img {
 	<p><i style="color:black">Welcome to my Portfolio.</i> </p> 
     <p><i style="color:black">I create custom websites  to help busnisses do better online.</i></p>
 	
-	<div>
-        <form action="handler.php">
-   <p><strong style="color:black " >Логин:</strong> 
-    <input maxlength="25" size="40" name="login"></p>
-   <p><strong style="color: black">Пароль:</strong> 
-    <input type="password" maxlength="25" size="40" name="password"></p>
-    <p><input type="submit" value="Отправить"></p>
-      </div>
+	
 
 <h2 style="color: black">Me in social media</h2>
 <a href="https://www.youtube.com/" class="fa fa-youtube"></a>
 <a href="https://instagram.com/__dzhamangulova77__?igshid=1hbwwstdylu7b" class="fa fa-instagram"></a>
 		
-		 <script lauguage="javascript">
+</style>
+</head>
+<body>
+
+<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
+
+<div id="id01" class="modal">
+  
+  <form class="modal-content animate" action="" method="post">
+    <div class="imgcontainer">
+      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+      <img src="https://www.w3schools.com/howto/img_avatar2.png" alt="Avatar" class="avatar">
+    </div>
+
+    <div class="container">
+      <label for="uname"><b>Username</b></label>
+      <input type="text" placeholder="Enter Username" name="uname" id="fname"required>
+
+      <label for="psw"><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="psw" id="lname"required>
+        
+      <button type="submit" onclick="myFunction()">Login</button>
+      <label>
+        <input type="checkbox" checked="checked" name="remember"> Remember me
+      </label>
+    </div>
+
+    <div class="container" style="background-color:#f1f1f1">
+      <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+      <span class="psw">Forgot <a href="#">password?</a></span>
+      
+      <script lauguage="javascript">
 	function myFunction(){
       var a = document.getElementById("fname").value
       var b = document.getElementById("lname").value
@@ -82,7 +106,12 @@ img {
     </div>
   </form>
 </div>
-		
+
+
+
+
+</body>
+</html>	
 		
 
 
