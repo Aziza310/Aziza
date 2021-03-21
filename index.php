@@ -10,22 +10,22 @@ body {
   background-size: 100% 100%;
 }
 a:link {
-  color: green;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: pink;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
-  color: red;
+  color: black;
   background-color: transparent;
   text-decoration: underline;
 }
 a:active {
-  color: yellow;
+  color: black;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -39,9 +39,9 @@ a:active {
 		<h1 style="text-align:center; color:Lime; font-family:matura mt script capitals;" ><em> Aziza Dzhamangulova</em> </h1>
 	</div>
 <div>
-	<h3 style="color:green;">Social Status: Student</h3>
-	<h3 style="color:orange;">Age: 18 </h3>
-  <h4 style="color:pink;">Phone number: +996-706 25 75 25 </h4>
+	<h3 style="color:black;">Social Status: Student</h3>
+	<h3 style="color:black;">Age: 18 </h3>
+  <h4 style="color:black;">Phone number: +996-706 25 75 25 </h4>
 	
         
 </a>
