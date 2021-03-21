@@ -1,39 +1,6 @@
 <!DOCTYPE html>
-<html>
-<head>
-<link rel="icon" href="logo.png" type="image/x-icon">
-<style>
-body {
-  background-image: url('https://www.publicdomainpictures.net/pictures/260000/velka/above-clouds.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-a:link {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: black;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:active {
-  color: black;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
-	</style>
-</head>
-<body>
-		
+<html style="background: white url('https://www.publicdomainpictures.net/pictures/260000/velka/above-clouds.jpg')">
+	
 <head>
 	<title>aziza</title>
 <style>
@@ -69,6 +36,10 @@ img {
   color: white;
 }
 
+
+</style>
+</head>
+<body>
 	<h1 style="color:black">Hello, I'm Aziza!</center></h1>
 	<img src ="https://yt3.ggpht.com/ytc/AAUvwnhXw7cZDSy_VD577yp5QIJyDJ5gk6RFZr8pfTW_=s900-c-k-c0x00ffffff-no-rj" alt="iaau" width="200"; height="200" style="  border-radius: 50%; border="2 class="rightpic">
 
@@ -82,7 +53,10 @@ img {
 <h2 style="color: black">Me in social media</h2>
 <a href="https://www.youtube.com/" class="fa fa-youtube"></a>
 <a href="https://instagram.com/__dzhamangulova77__?igshid=1hbwwstdylu7b" class="fa fa-instagram"></a>
-
+		
+</style>
+</head>
+<body>
 	
  
 </div>
