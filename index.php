@@ -4,7 +4,7 @@
 <link rel="icon" href="logo.png" type="image/x-icon">
 <style>
 body {
-  background-image: url('https://bootstraptema.ru/_sf/26/51506352.jpg');
+  background-image: url('https://www.publicdomainpictures.net/pictures/260000/velka/above-clouds.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
