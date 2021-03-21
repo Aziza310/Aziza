@@ -33,6 +33,42 @@ a:active {
 	</style>
 </head>
 <body>
+		
+<head>
+	<title>aziza</title>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+ 
+}
+
+
+
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
 	<h1 style="color:black">Hello, I'm Aziza!</center></h1>
 	<img src ="https://yt3.ggpht.com/ytc/AAUvwnhXw7cZDSy_VD577yp5QIJyDJ5gk6RFZr8pfTW_=s900-c-k-c0x00ffffff-no-rj" alt="iaau" width="200"; height="200" style="  border-radius: 50%; border="2 class="rightpic">
 
