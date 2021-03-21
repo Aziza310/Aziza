@@ -33,7 +33,7 @@ a:active {
 	<title>aziza</title>
 </head>
 <body style="background-color:powderblue;">
-	<div><img src="profile.jpg" width="300" height="300" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
+	<div><img src="https://yt3.ggpht.com/ytc/AAUvwnhXw7cZDSy_VD577yp5QIJyDJ5gk6RFZr8pfTW_=s900-c-k-c0x00ffffff-no-rj" alt="iaau" width="200"; height="200" style="  border-radius: 50%; border="2 class="rightpic";>
 	</div>
 	<div>
 		<h1 style="text-align:center; color:Lime; font-family:matura mt script capitals;" ><em> Aziza Dzhamangulova</em> </h1>
