@@ -43,27 +43,7 @@ a:active {
 	<h3 style="color:orange;">Age: 18 </h3>
   <h4 style="color:pink;">Phone number: +996-706 25 75 25 </h4>
 	
-        <a target="_blank" href="https://www.instagram.com/esen411k/" title="Follow me :)">
-<img src="ins.png" alt="Instagram" style="width:70px;height:70px;">
-</a>
-		<a target="_blank" href="https://wa.me/+996708601601" title="My Whatsapp">
-<img src="what.png" alt="WA" style="width:70px;height:70px;">
-</a>
-	
-	<a target="_blank" href="https://m.facebook.com/profile.php?id=100016479917100" title="It's only for PUBG :|">
-<img src="fb.png" alt="Facebook" style="width:70px;height:70px;">
-</a>
-	 <a target="_blank" href="mailto:esenbekm03@gmail.com" title="Send me massage">
-<img src="mail.png" alt="Email" style="width:70px;height:70px;">
-</a>
-	
-         <a target="_blank" href="https://github.com/EsenbekM/" title="My works">
-<img src="git.png" alt="My works" style="width:70px;height:70px;">
-		 
-</a>
-	<a target="_blank" href="https://t.me/esen4iik" title="My Telegram">
-<img src="tele.png" alt="telegram" style="width:70px;height:70px;">
-		
+        
 </a>
  
 </div>
