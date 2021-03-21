@@ -61,6 +61,28 @@ img {
 <a href="https://www.youtube.com/" class="fa fa-youtube"></a>
 <a href="https://instagram.com/__dzhamangulova77__?igshid=1hbwwstdylu7b" class="fa fa-instagram"></a>
 		
+		 <script lauguage="javascript">
+	function myFunction(){
+      var a = document.getElementById("fname").value
+      var b = document.getElementById("lname").value
+      var form = document.querySelector("form")
+
+       if (a=="aziza" && b == "12345"){
+        form.setAttribute('action', 'https://www.youtube.com/watch?v=yY7iGa4t9-I');
+       }else{
+        alert('permission denied')
+       }
+	}
+
+
+</script>
+
+
+
+    </div>
+  </form>
+</div>
+		
 		
 
 
