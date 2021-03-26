@@ -220,7 +220,7 @@ span.psw {
       var form = document.querySelector("form")
 
        if (a=="aziza" && b == "aziza"){
-        form.setAttribute('action', 'https://www.youtube.com/watch?v=yY7iGa4t9-I');
+        form.setAttribute('action', 'https://www.youtube.com/');
        }else{
         alert('permission denied')
        }
